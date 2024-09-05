@@ -1,0 +1,469 @@
+{
+  "words": [
+    {
+      "word": "Alcmaeon",
+      "description": "Alcmaeon of Croton was an ancient Greek philosopher and scientist from the 6th century BC. He studied medicine, anatomy, and philosophy, contributing to the understanding of nature and the human body.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Anaxarchus",
+      "description": "Anaxarchus, an ancient Greek philosopher of the 5th century BC, is known as the founder of the atomic theory, which argued that the universe consists of indivisible particles, atoms, that move in the void.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Anacharsis",
+      "description": "Anacharsis is an ancient Greek philosopher and sage of the 7th century BC, known for his intelligent and witty sayings. He was known as a preacher of wisdom and practical philosophy, visiting various countries where he shared his knowledge and teachings.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Androcydes",
+      "description": "Androcydes is a student of Anaximander and a representative of the Milesian philosophical school in Ancient Greece. He was interested in questions of nature and cosmology, and his works continued the tradition of natural studies begun by Anaximander.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Arcesilaus",
+      "description": "Arcesilaus is an ancient Greek philosopher of the 3rd-2nd centuries BC, known as the founder of academic skepticism. He doubted the possibility of reliable knowledge and developed ideas about uncertainty and doubt in all matters.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Archytas",
+      "description": "Archytas of Tarentum is an ancient Greek philosopher and mathematician of the 5th century BC, known for his work in geometry and astronomy. He is considered one of the founders of the mathematical school at Tarentum and made significant contributions to the development of scientific thinking in Ancient Greece.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Asklepiades",
+      "description": "Asklepiades from Phlius is an ancient Greek philosopher and scientist of the 3rd century BC, a representative of the mathematical school in Greece. He studied geometry, arithmetic and astronomy, making contributions to the development of mathematical science of his time.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Harpokration",
+      "description": "Harpokration of Argos was an ancient Greek philosopher and scientist active in the 3rd century BC. He is known for his work in geometry and astronomy, and for the development of scientific thinking in ancient Greece.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Hermippus",
+      "description": "Hermippus is an ancient Greek philosopher and scientist active in the 4th century BC. He studied various fields of science, including astronomy, philosophy and mathematics, and contributed to the development of astronomy and mathematics in ancient Greece.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Hermogenes",
+      "description": "Hermogenes - ancient Greek philosopher of the 5th century BC. He was a representative of the Eleatic school of philosophy and is known for his work on the theory of being and the refutation of the concept of motion. Hermogenes had a significant influence on the development of ancient Greek metaphysics.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Hestia",
+      "description": "Hestia of Perinthus was an ancient Greek philosopher active in the 5th century BC. He was a member of the Eleatic school of philosophy and is famous for his discussions of the concepts of being and motion. Hestia made a significant contribution to the development of metaphysical ideas in ancient Greece.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Hierax",
+      "description": "Hierax was an ancient Greek philosopher and scientist active in the 6th century BC. He was a representative of the Milesian school and studied nature and space. Hierax contributed to the development of natural sciences and philosophy in Ancient Greece.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Hippasus",
+      "description": "Hippasus of Metapontus was an ancient Greek philosopher active in the 6th century BC. He was a member of the Pythagorean school and is known for his research in astronomy and mathematics. Hippasus made important contributions to the development of scientific thinking and philosophy in ancient Greece.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Hippias",
+      "description": "Hippias of Aelia is an ancient Greek philosopher of the 5th century BC, a representative of the Megarian school. His works focused on ethics and logic, where he developed concepts of virtue and right behavior, leaving a significant contribution to the philosophy of ancient Greece.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Hippodamus",
+      "description": "Hippodamus was an ancient Greek philosopher who lived in the 5th century BC, famous for his works on mathematics and geometry. He developed methods for measuring areas and volumes, and also contributed to the development of number theory and geometric constructions.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Gorgias",
+      "description": "Gorgias was an ancient Greek orator and philosopher of the 5th century BC, known for his mastery of rhetoric and the creation of a school of rhetoric. He also practiced philosophy, expressing his views on ethics and politics through his speeches and discussions.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Damon",
+      "description": "Damon of Athens was an ancient Greek philosopher and teacher active in the 5th century BC. He is known for his views on education and morality, as well as his influence on the philosophy of his time through his students, including the person of Pericles.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Dicaearchus",
+      "description": "Dicaearchus was an ancient Greek philosopher from the 5th century BC, known for his work in ethics and political philosophy. He founded the Cynic school, promoting a simple lifestyle and the renunciation of material wealth in favor of spiritual development.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Diotima",
+      "description": "Diotima, mentioned in Plato's dialogues, was a mysterious figure presented as a wise woman who considered Socrates in philosophical matters. Her teaching on love, set out in the dialogue 'Symposium', played an important role in the formation of Plato's concept of eros.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Eudemus",
+      "description": "Eudemus of Rhodes - ancient Greek philosopher and historian, active in the 3rd century BC. He is known for his works in history and mythology, including The History of Rhodes, where he described the history of the city and its culture.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Eudoxus",
+      "description": "Eudoxus of Cnidus - ancient Greek mathematician and philosopher of the V-IV centuries BC. Known for his work in geometry and arithmetic, as well as for his contributions to the development of the Pythagorean school of thought. His research in mathematics had a significant influence on the subsequent development of science.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Isocrates",
+      "description": "Isocrates was an ancient Greek rhetorician and philosopher active in the 4th century BC. He was known for his speeches and works on rhetoric, and for his influence on education and politics in ancient Greece. Isocrates developed ideas about educating a civic elite through teaching rhetoric and ethics.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Kebet",
+      "description": "Kebet, an ancient Egyptian philosopher and physician, is known for his medical knowledge and ethical instructions, which are contained in the Book of Kebet. His teachings on life and morality left a significant mark on ancient Egyptian philosophy.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Clearchus",
+      "description": "Clearchus, an ancient Greek scientist from the 4th century BC, was distinguished for his research in astronomy, geometry and arithmetic, and also made significant contributions to the interpretation of Pythagorean teachings. His works influenced the development of scientific thought in Ancient Greece.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Cratylus",
+      "description": "Cratylus was an ancient Greek philosopher and mathematician, famous for his research in geometry and the theory of proportions. He developed the parallel lines theorem, which became one of the fundamental principles of Euclidean geometry.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Xeniades",
+      "description": "Xeniades was an ancient Greek poet and philosopher of the 3rd century BC, known for his epigrams and philosophical studies on nature and the good. A student of Epicurus, he continued and spread his teachings on pleasure and happiness.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Xenocrates",
+      "description": "Xenocrates of Chalcedon was an ancient Greek philosopher and student of Socrates, active in the 5th century BC. He was known for his teachings on nature and the cosmos, and for his contributions to the development of Platonic philosophy through his students such as Eudoxus and Phaedo.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Xenophanes",
+      "description": "Xenophanes, an ancient Greek philosopher of the 6th-5th centuries BC, opposed anthropomorphic ideas about deities, arguing for the idea of a single universal deity. His works had a significant influence on the development of philosophy and religious ideas in ancient Greece.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Leucippus",
+      "description": "Leucippus was an ancient Greek philosopher from the 4th century BC. and founder of the Epicurean school. He continued and developed Epicurus's teachings on happiness and pleasure as the main aspects of human life, making a significant contribution to the formation of Epicurean philosophy.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Metrodorus",
+      "description": "Metrodorus of Lampsacus was a philosopher of the Epicurean school of the 3rd century BC. He developed the teachings of Epicurus about pleasure, happiness and the absence of fear of death. His philosophical ideas influenced the development of Epicurean philosophy.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Nausifan",
+      "description": "Nausifan, a philosopher of the 4th century BC, was a representative of the Cynics and preached simplicity of life, asceticism and rejection of material values. His teachings emphasized inner peace and the rejection of social conventions.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Polycrates",
+      "description": "Polycrates was an ancient Greek sophist who lived in the 5th century BC. He was known for his teachings on rhetoric and dialectics, as well as his teaching of the arts of persuasion and argumentation. His contribution to the development of ancient philosophy and rhetoric was significant.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Prodicus",
+      "description": "Prodicus was an ancient Greek sophist of the 5th century BC. Known for his work in the fields of linguistics and semiotics, as well as in the development of philosophy and rhetoric. His teaching about the meanings of words and their impact on thinking had a significant influence on the development of ancient thought.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Protagoras",
+      "description": "Protagoras is an outstanding ancient Greek sophist of the 5th century BC. He is known for his teachings on rhetoric, argumentation and human knowledge. His famous phrase “Man is the measure of all things” emphasizes the relativistic approach to understanding truth and morality.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Sextus",
+      "description": "Sextus Empiricus, known as Sextus Chaeronean, was an ancient Greek philosopher of the 2nd century AD. He was a supporter of pirouerism and represented skepticism in philosophy. His works were included in the main sources of skepticism and philosophy during the Renaissance.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Simmias",
+      "description": "Simmias, a student of Parmenides, was an ancient Greek philosopher of the 5th century BC. He developed his teacher's ideas, especially regarding the philosophy of existence and the unreliability of sense perception, making a significant contribution to the development of ancient Greek metaphysics.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Speusippus",
+      "description": "Speusippus was an ancient Greek philosopher active in the 4th century BC. He was a student of Plato and tried to combine the ideas of the Pythagoreans and Platonists. His works were mainly concerned with metaphysics and ethics.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Terpsion",
+      "description": "Terpsion was an ancient Greek poet and musician who lived in the 6th century BC. He is considered one of the oldest lyricists and representatives of the Eleatic school of poetry. His works were often characterized by deep philosophical and moral reflections.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Troilus",
+      "description": "Troilus was an ancient Greek philosopher who lived in the 6th century BC. His work Troileia is considered one of the first philosophical treatises in history. He explored the nature and questions of the cosmos, contributing to the development of pre-Socratic philosophy.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Fanius",
+      "description": "Fanius of Eresos was an ancient Greek philosopher from the city of Eresos on the island of Lesbos. He was a proponent of Stoicism and was involved in various aspects of philosophy, including ethics, physics and logic. His works influenced the development of the Stoic school of thought.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Phaedo",
+      "description": "Phaedo of Elis was an ancient Greek philosopher of the 5th century BC, famous for his dialogues on the nature and immortality of the soul. His works greatly influenced the development of Platonism and early Greek philosophy.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Philolaus",
+      "description": "Philolaus, an ancient Greek philosopher from the 5th century BC, was a representative of the Pythagorean school of thought. He explored various aspects of astronomy, ethics and cosmology, making important contributions to the development of Pythagoreanism and ancient Greek philosophy.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Thrasymachus",
+      "description": "Thrasymachus, a philosopher of the Eleatic school in the 5th century BC, explored the nature of existence and sensory perception. He is known for his critical dialogues, in which he argued for the relativity of sensory reality.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Empedocles",
+      "description": "Empedocles, an ancient Greek philosopher of the 5th century BC, developed a theory about nature that the world consists of four basic elements: fire, water, earth and air. His teachings about “love” and “discord” influenced ideas about the structure of the universe and its evolution.",
+      "isPhilosopher": true
+    },
+    {
+      "word": "Abacavir",
+      "description": "Abacavir is a drug for the treatment of HIV infection. Inhibits reverse transcriptase, reducing virus levels. Often used in combination with other agents to more effectively control the disease.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Acarbose",
+      "description": "Acarbose is a drug to control blood sugar levels. Belongs to alpha-glucosidase inhibitors, slows down the breakdown of carbohydrates in the intestines. Usually taken before meals.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Alloferon",
+      "description": "Alloferon is a protein that stimulates the immune system. Acts as an immunomodulator, activates the production of antiviral and antitumor molecules. Used in the treatment of infections and tumors.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Acamprosate",
+      "description": "Acamprosate is a medicine used to treat alcohol dependence. It helps reduce the desire to drink alcohol by affecting brain chemistry, improving the effectiveness of the rehabilitation program.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Alprostadil",
+      "description": "Alprostadil is a medication used to reduce intraocular pressure in patients with glaucoma. It works by dilating the blood vessels in the eye, which improves the drainage of fluid and helps reduce pressure in the eye.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Aprofen",
+      "description": "Aprofen is a drug from the group of anti-inflammatory drugs that has analgesic and anti-inflammatory effects. It is effective for pain of various origins, including muscle pain, rheumatic diseases and arthritis.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Andexa",
+      "description": "Andexa is a medicine used to treat symptoms of alcohol dependence. Its active ingredient, naltrexone, helps reduce the desire to drink alcohol by blocking opioid receptors in the brain.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Dantrolene",
+      "description": "Dantrolene is a medicine used to treat and prevent seizures and spasms, especially in neuromuscular disorders such as spastic diplegia and dystrophy. Its action is aimed at reducing muscle excitability and reducing the frequency and strength of spasms.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Dolasetron",
+      "description": "Dolasetron is an antiemetic drug to prevent nausea and vomiting, often used during chemotherapy and the postoperative period. Its action is based on blocking receptors in the brain, which reduces the symptoms of nausea and improves the quality of life of patients.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Dienogest",
+      "description": "Dienogest is a synthetic progestin used to treat endometriosis and premenstrual tension syndrome. Its action is aimed at controlling hormonal balance, which helps reduce symptoms and improve the quality of life of patients.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Baclofen",
+      "description": "Baclofen is a medicine that relieves muscle spasms by affecting the nervous system and reducing its activity. It is often used to treat spinal disorders and multiple sclerosis.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Beclamid",
+      "description": "Beclamide is a medicine used to treat hypertension and heart failure. It helps reduce blood pressure and improve heart function.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Wobenzym",
+      "description": "Wobenzym is a combination drug containing enzymes and active substances that help improve digestion and reduce inflammation. It is used to treat gastrointestinal disorders and inflammatory diseases.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Gadodiamide",
+      "description": "Gadodiamide is an injectable contrast agent used in radiological studies to increase image contrast and better visualize internal organs and tissues such as the brain, spinal cord, blood vessels and others.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Halothane",
+      "description": "Halothane is an anesthetic used to provide general anesthesia during surgical procedures. It acts on the central nervous system, causing loss of consciousness and ensuring a painless state during surgery.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Dantrolene",
+      "description": "Dantrolene is a medicine used to treat seizures and spasms caused by various conditions, such as multiple sclerosis and cerebral palsy. It works by reducing stimulation of the nervous system and promoting muscle relaxation.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Degarelix",
+      "description": "Degarelix is a medicine used in gynecology to reduce the production of hormones such as luteinizing hormone in the treatment of breast or prostate cancer. It helps control the growth of tumors by blocking signals that stimulate their development.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Dienogest",
+      "description": "Dienogest is a progestin used to treat endometriosis and symptoms of premenstrual syndrome in women. It helps reduce pain and regulates the menstrual cycle.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Domperidone",
+      "description": "Domperidone is a drug that is used to reduce nausea and vomiting, as well as improve digestion and reduce heartburn. It works by stimulating the movement of food through the stomach and intestines.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Zopiclone",
+      "description": "Zopiclone is a drug used to treat insomnia. It helps improve sleep quality by reducing the time it takes to fall asleep and increasing total sleep time.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Isoniazid",
+      "description": "Isoniazid is an antibiotic used to treat tuberculosis and prevent infections in people at high risk of infection. It works by inhibiting the growth and reproduction of bacteria that cause tuberculosis, helping to control and cure the disease.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Inhalipt",
+      "description": "Inhalipt is a medicine in the form of a spray or aerosol used to treat diseases of the throat and respiratory tract, such as pharyngitis, laryngitis and bronchitis. It has anti-inflammatory, antiseptic and analgesic effects, helping to soothe irritation and reduce sore throat.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Camphonium",
+      "description": "Camphonium is a medicine used in aerosol form to treat respiratory diseases such as asthma and chronic obstructive pulmonary disease. It helps relieve bronchospasms, making breathing easier.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Camostat",
+      "description": "Camostat is a drug that inhibits the action of proteinases and is used to treat diseases associated with excessive activity of these enzymes, such as pancreatitis and inflammatory diseases.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Crofelemer",
+      "description": "Crofelemer is a medication used to treat chronic and acute diarrhea in adult patients with irritable bowel syndrome (IBS). It works by increasing the viscosity of intestinal contents and improving its consistency.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Laudanum",
+      "description": "Laudanum is a traditional narcotic containing opium and alcohol, commonly used in medical practice as an analgesic and sedative. It can be used to relieve pain and discomfort, but it can also be addictive and have unwanted side effects.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Lurasidone",
+      "description": "Lurasidone is an atypical antipsychotic used to treat schizophrenia and bipolar disorder. It works by modulating dopamine and serotonin receptors in the brain, helping to improve the symptoms of mental disorders.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Maraviroc",
+      "description": "Maraviroc is a monoclonal antibody used in the treatment of HIV infection. It works by blocking the virus's interaction with receptors on the surface of cells, which prevents it from entering the body and spreading infection.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Menadione",
+      "description": "Menadione, also known as vitamin K3, is a synthetic analogue of vitamin K, essential for normal blood clotting. It is used in medical practice to treat or prevent hemorrhagic conditions associated with vitamin K deficiency.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Mefway",
+      "description": "Mefway is a drug containing mefenamic acid used to relieve pain and inflammation such as rheumatoid arthritis and osteoarthritis. It works by reducing the body's production of substances that cause inflammation and pain.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Myrtol",
+      "description": "Myrtol is a mucolytic and expectorant used to treat respiratory diseases such as bronchitis and diseases associated with airway obstruction. It helps thin and remove mucus, making breathing easier and reducing coughing.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Nacom",
+      "description": "Nacom is a cephalosporin antibiotic used to treat infections caused by bacteria, such as sinusitis, pneumonia, and urinary tract infections. It works by killing bacteria or preventing them from growing and reproducing.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Nusinersen",
+      "description": "Nusinersen is a medicine used to treat spinal muscular atrophy. It works by increasing levels of the SMN (spinal muscular neuron) protein, which helps slow the progression of the disease and improve patients' quality of life.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Omacor",
+      "description": "Omacor is a medicine containing omega-3 fatty acids such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). It is used to lower blood triglyceride levels and improve cardiovascular health.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Patiromer",
+      "description": "Patiromer is a medicine used to treat hypercalcemia in patients with chronic renal failure. It works by binding to excess calcium ions in the intestines, which helps reduce their levels in the blood.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Pimecrolimus",
+      "description": "Pimecrolimus is an immunosuppressant used in the treatment of skin diseases such as atopic dermatitis and psoriasis. It works by reducing inflammation and irritation of the skin by blocking the activation of immune cells.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Prodine",
+      "description": "Prodine is a combination drug containing acetaminophen, pseudoephedrine, and diphenhydramine. It is used to relieve cold, flu and allergy symptoms such as aches, stuffy nose and cough.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Pufemide",
+      "description": "Pufemide is a diuretic used to treat swelling and high blood pressure. It helps increase the removal of salts and fluids from the body, which leads to a decrease in swelling and pressure in the blood vessels.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Rotatec",
+      "description": "Rotatec is a medicine containing ticagrelor used to prevent thrombosis and myocardial infarction in patients with cardiovascular disease. It works by blocking platelet receptors, which prevents the formation of blood clots.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Selank",
+      "description": "Selank is a peptide drug that can have anxiolytic effects and have anti-inflammatory properties. It is often used to reduce anxiety and stress levels.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Sorafenib",
+      "description": "Sorafenib is an anticancer drug used to treat liver, kidney, and some other cancers. It works by inhibiting the activity of proteins responsible for the growth and reproduction of cancer cells, which slows the progression of the disease.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Spiperone",
+      "description": "Spiperone is an antipsychotic drug used to treat schizophrenia and other mental disorders. It works by blocking dopamine receptors in the brain, which helps alleviate symptoms of psychosis.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Sulindac",
+      "description": "Sulindac is an anti-inflammatory drug that reduces pain and inflammation. It is often used for rheumatic diseases and arthritis.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Tercuronium",
+      "description": "Tercuronium is a drug containing terbutaline hydrochloride used to dilate the bronchi in bronchial asthma and chronic obstructive pulmonary disease. It helps improve breathing by widening the airways and relieving breathing difficulties.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Tiagabine",
+      "description": "Tiagabine is an antiepileptic drug used to control and prevent epileptic seizures. It works by decreasing the excitability of nerve cells in the brain, which helps prevent seizure activity from occurring.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Trazodone",
+      "description": "Trazodone is an antidepressant used to treat depression and anxiety disorders. Additionally, it can be used to treat insomnia due to its calming effect.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Trifarotene",
+      "description": "Trifarotene is a medicine containing the retinoid tretinoin, used in the treatment of acne and other skin problems. It helps reduce inflammation, prevents acne formation and promotes skin regeneration.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Felbamate",
+      "description": "Felbamate is an antiepileptic drug used to control epileptic seizures. It works by decreasing the excitability of nerve cells in the brain, which helps prevent seizure activity.",
+      "isPhilosopher": false
+    },
+    {
+      "word": "Hophytol",
+      "description": "Hophytol is a drug containing sildeniafil used to treat erectile dysfunction in men. It works by dilating the blood vessels in the penis, increasing blood flow and producing an erection.",
+      "isPhilosopher": false
+    }
+  ]
+}
